@@ -1,4 +1,6 @@
 #!/bin/bash
+sudo mkdir newdir
+
 sudo dnf update -y
 sudo dnf install -y docker
 
